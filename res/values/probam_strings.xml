@@ -16,17 +16,17 @@
     <string name="note">NOTE</string>
 
     <!-- Donate to AOSB Builds -->
-    <string name="donate_probam_title">Support AOSB</string>
-    <string name="donate_probam_summary">Donate to AOSB Builds</string>
+    <string name="donate_probam_title">Поддержка AOSB</string>
+    <string name="donate_probam_summary">Пожертвовать на разработку AOSB</string>
     <string name="donate_link" formatted="false">https://fundrazr.com/campaigns/8fKfe/</string>
 
     <!-- About AOSB -->
-    <string name="about_probam_settings_title">About AOSB</string>
-    <string name="about_probam">About AOSB</string>
+    <string name="about_probam_settings_title">Описание AOSB</string>
+    <string name="about_probam">Описание AOSB</string>
     <string name="about_probam_summary">@null</string>
     <string name="app_name">AOSB</string>
-    <string name="devs">Developer</string>
-    <string name="beta_testers">Beta Testers</string>
+    <string name="devs">Разработчик</string>
+    <string name="beta_testers">Бета-тестеры</string>
     <string name="aosb_supporter">AOSB Supporter</string>
 
     <string name="github_hany_alsamman">https://github.com/codex-corp</string>
@@ -36,20 +36,20 @@
     <string name="github_cyanogenmod">https://github.com/CyanogenMod</string>
     <string name="donate_cyanogenmod">http://forum.cyanogenmod.com/donate</string>
 
-    <string name="probam_site_title">AOSB website</string>
-    <string name="probam_site_summary">Visit the AOSB website for latest news about the ROM.</string>
+    <string name="probam_site_title">AOSB вебсайт</string>
+    <string name="probam_site_summary">Посетить AOSB вебсайт с последними новостями о прошивке.</string>
 
-    <string name="probam">AOSB Build</string>
-    <string name="probam_website_title">AOSB Blog</string>
-    <string name="probam_website_summary">Find latest news and updates about AOSB.</string>
-    <string name="probam_source_title">AOSB Sources</string>
-    <string name="probam_source_summary">AOSB source can be found at www.github.com/ProBAMKK</string>
+    <string name="probam">AOSB версия</string>
+    <string name="probam_website_title">AOSB Блог</string>
+    <string name="probam_website_summary">Найти последние новости и версии прошивки.</string>
+    <string name="probam_source_title">AOSB Исходники</string>
+    <string name="probam_source_summary">AOSB исходники находятся на www.github.com/AOSB</string>
     <string name="facebook_probam">http://www.facebook.com/CodexCorp</string>
     <string name="google_probam">https://plus.google.com/+ProBamNet</string>
     <string name="github_probam">https://github.com/ProBAMKK</string>
 
-    <string name="probam_facebook_title">Facebook Page</string>
-    <string name="probam_facebook_summary">Subscribe to AOSB Facebook page for updates.</string>
+    <string name="probam_facebook_title">Страница Facebook</string>
+    <string name="probam_facebook_summary">Подписаться на новости на странице AOSB Facebook page.</string>
 
     <!-- Init.d -->
     <string name="header_summary_init_d">@null</string>
@@ -64,14 +64,14 @@
     <string name="ps_enable_sysctl">Enable sysctl tweaks at boot</string>
     <string name="pt_free_mem">Free memory</string>
     <string name="ps_free_mem">Set minfree values at boot</string>
-    <string name="pt_clear_data_cache">Clear cache</string>
-    <string name="ps_clear_data_cache">Clear application cache files each boot</string>
-    <string name="pt_enable_cron">Enable scheduled tasks</string>
-    <string name="ps_enable_cron">Enable scheduled cron jobs</string>
-    <string name="pt_sd_boost">Enable SD boost</string>
-    <string name="ps_sd_boost">Enable/disable SD card speed boost</string>
-    <string name="pt_file_system_speedups">File system speedup</string>
-    <string name="ps_file_system_speedups">Speed up file systems at boot</string>
+    <string name="pt_clear_data_cache">Очистить cache</string>
+    <string name="ps_clear_data_cache">Очищать кэш приложений при каждой загрузке</string>
+    <string name="pt_enable_cron">Включить запланированные задачи</string>
+    <string name="ps_enable_cron">Включить запланированные cron задачи</string>
+    <string name="pt_sd_boost">Включить ускорение SD</string>
+    <string name="ps_sd_boost">Вкл/Выкл ускорение карты SD</string>
+    <string name="pt_file_system_speedups">Ускорение файловой системы</string>
+    <string name="ps_file_system_speedups">Ускорить файловую систему при загрузке</string>
     <string name="pt_foreground_app_mem">Foreground app mem</string>
     <string name="pt_visible_app_mem">Visible app mem</string>
     <string name="pt_perceptible_app_mem">Perceptible app mem</string>
@@ -90,63 +90,63 @@
     <string name="db_exit">Exit</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвета ниже, чтобы применить</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Применить</string>
+    <string name="color_default">Исходные цвета</string>
 
     <!-- Halo -->
-    <string name="halo_enabled_title">Enable HALO OR MultiWindow</string>
-    <string name="halo_enabled_summary">If halo has been enabled, multi window will be disabled completely</string>
-    <string name="halo_settings_title">HALO and MultiWindow</string>
-    <string name="halo_behavior_title">Halo Behavior</string>
-    <string name="halo_hide_title">Hide Halo after activity</string>
-    <string name="halo_hide_summary">Halo will appear for incoming tasks and scroll out of sight after a while</string>
-    <string name="halo_reversed_title">Reverse Halo</string>
-    <string name="halo_reversed_summary">Applies for task switching and moving gestures</string>
-    <string name="halo_state_title">Halo policy</string>
-    <string name="halo_state_summary">Enables black/white listing notifications</string>
-    <string name="halo_state_black">Black list</string>
-    <string name="halo_state_white">White list</string>
-    <string name="halo_pause_title">Pause active app</string>
-    <string name="halo_pause_summary">When opening an app with Halo the underlying app will get paused</string>
-    <string name="halo_ninja_title">Ninja mode</string>
-    <string name="halo_ninja_summary">Halo will disappear completely when empty</string>
-    <string name="halo_notification_msgbox_title">Enable message pop-up</string>
-    <string name="halo_notification_msgbox_summary">Show message box for incoming notifications</string>
-    <string name="halo_unlock_ping_title">Ping on unlock</string>
-    <string name="halo_unlock_ping_summary">Halo will ping when device is unlocked if new notifications were received</string>
-    <string name="halo_color_title">Halo color</string>
-    <string name="halo_color_summary">Defines how color Halo is going to be</string>
+    <string name="halo_enabled_title">Включить HALO или MultiWindow</string>
+    <string name="halo_enabled_summary">Если halo включен, мультиоконный режим будет полностью отключен</string>
+    <string name="halo_settings_title">HALO и MultiWindow</string>
+    <string name="halo_behavior_title">Halo поведение</string>
+    <string name="halo_hide_title">Скрывать Halo после активности</string>
+    <string name="halo_hide_summary">Halo появится для входящих задач и скроется автоматически после</string>
+    <string name="halo_reversed_title">Реверс Halo</string>
+    <string name="halo_reversed_summary">Применяется для переключения задач и жестов</string>
+    <string name="halo_state_title">Политика Halo</string>
+    <string name="halo_state_summary">Вкл черные/белые списки уведомлений</string>
+    <string name="halo_state_black">Черный список</string>
+    <string name="halo_state_white">Белый список</string>
+    <string name="halo_pause_title">Пауза активного приложения</string>
+    <string name="halo_pause_summary">При открытии приложения через Halo активное приложение приостанавливается</string>
+    <string name="halo_ninja_title">Нинзя режим</string>
+    <string name="halo_ninja_summary">Halo полностью скроется при отсутствии активности</string>
+    <string name="halo_notification_msgbox_title">Вкл всплывающие сообщения</string>
+    <string name="halo_notification_msgbox_summary">Показывать панель при входящих уведомлениях</string>
+    <string name="halo_unlock_ping_title">Звук при разблокировке</string>
+    <string name="halo_unlock_ping_summary">Halo издает звук при получении новых уведомлений</string>
+    <string name="halo_color_title">Halo цвет</string>
+    <string name="halo_color_summary">Назначить цвет для Halo</string>
 
-    <string name="halo_size_title">Halo size</string>
-    <string name="halo_size_summary">Defines how big Halo is going to be</string>
-    <string name="halo_size_miniscule">Miniscule</string>
-    <string name="halo_size_small">Small</string>
-    <string name="halo_size_default">Normal (default)</string>
-    <string name="halo_size_large">Large</string>
-    <string name="halo_size_gigantic">Gigantic</string>
-    <string name="halo_size_monster">Monster</string>
+    <string name="halo_size_title">Halo размер</string>
+    <string name="halo_size_summary">Назначить размер</string>
+    <string name="halo_size_miniscule">Супермини</string>
+    <string name="halo_size_small">Мини</string>
+    <string name="halo_size_default">Обычный (по-умолчанию)</string>
+    <string name="halo_size_large">Большой</string>
+    <string name="halo_size_gigantic">Гигансткий</string>
+    <string name="halo_size_monster">Супергигантский</string>
 
-    <string name="halo_notification_count_title">Notification count</string>
-    <string name="halo_notification_count_summary">Display notification counts on Halo</string>
-    <string name="halo_notification_count_none">None</string>
-    <string name="halo_notification_count_total">Total</string>
-    <string name="halo_notification_count_individual">Per app</string>
-    <string name="halo_notification_count_both">Both</string>
+    <string name="halo_notification_count_title">Счетчик уведомлений</string>
+    <string name="halo_notification_count_summary">Отображать счетчик в Halo</string>
+    <string name="halo_notification_count_none">Нет</string>
+    <string name="halo_notification_count_total">Общий</string>
+    <string name="halo_notification_count_individual">Для каждого приложения</string>
+    <string name="halo_notification_count_both">Оба</string>
 
-    <string name="halo_msgbox_animation_title">Message box animation</string>
-    <string name="halo_msgbox_animation_summary">Halo message box animation for incoming notifications</string>
-    <string name="halo_msgbox_animation_none">None</string>
-    <string name="halo_msgbox_animation_flip">Flip</string>
+    <string name="halo_msgbox_animation_title">Анимация панели сообщений</string>
+    <string name="halo_msgbox_animation_summary">Анимация Halo панели сообщений для входящих уведомлений</string>
+    <string name="halo_msgbox_animation_none">Нет</string>
+    <string name="halo_msgbox_animation_flip">Флип</string>
 
     <!-- Label for are-halo-notifications-allowed checkbox in app details [CHAR LIMIT=20] -->
-    <string name="app_halo_label_black">Blacklist from HALO</string>
-    <string name="app_halo_label_white">Whitelist from HALO</string>    
+    <string name="app_halo_label_black">Черный список для HALO</string>
+    <string name="app_halo_label_white">Белый список для HALO</string>    
 
     <!-- Xposed -->
     <string name="xposed_category_title">Xposed</string>
@@ -160,25 +160,25 @@
     <string name="xposed_warning_summary">These mods may adversely affect performance and stability. Use at your own risk!</string>
 
     <!-- Recents Ram Bar -->
-    <string name="ram_bar">Recents RAM bar</string>
-    <string name="ram_bar_note_title">Note</string>
-    <string name="ram_bar_note_summary">This RAM bar shows the actual android memory (RAM) utilization. Please note that having cached apps helps your device open apps much faster. For further explanations on how android memory (RAM) management works, check the help menu.</string>
-    <string name="ram_bar_mode_title">Recents RAM bar mode</string>
-    <string name="ram_bar_mode_dialog_title">Show on recents RAM bar</string>
-    <string name="ram_bar_none">None</string>
-    <string name="ram_bar_apps">Applications</string>
-    <string name="ram_bar_cache">Applications and cache</string>
-    <string name="ram_bar_other">Applications, cache and other</string>
-    <string name="ram_bar_style_cat">Recents RAM bar style</string>
-    <string name="ram_bar_color_app_mem_color">Applications RAM color</string>
-    <string name="ram_bar_color_cache_mem_color">Cache RAM color</string>
-    <string name="ram_bar_color_total_mem_color">Other RAM color</string>
-    <string name="ram_bar_color_enabled">Enabled</string>
-    <string name="ram_bar_color_disabled">Disabled</string>
-    <string name="ram_bar_button_help">Help</string>
-    <string name="ram_bar_button_reset">Reset colors</string>
-    <string name="ram_bar_reset">Reset</string>
-    <string name="ram_bar_reset_message">Reset RAM bar style to default?</string>
+    <string name="ram_bar">Панель ОЗУ памяти в недавних приложениях</string>
+    <string name="ram_bar_note_title">Примечание</string>
+    <string name="ram_bar_note_summary">Это ОЗУ бар показывает фактическую оперативную память (ОЗУ) использованную андроид. Пожалуйста, обратите внимание, что наличие в кэше приложений помогает устройству быстрее открывать приложения. Для дальнейших объяснений о том, как андроид  управляет оперативной памятью (ОЗУ), проверьте меню помощи.</string>
+    <string name="ram_bar_mode_title">Настройка панели ОЗУ</string>
+    <string name="ram_bar_mode_dialog_title">Отобразить в недавних приложениях</string>
+    <string name="ram_bar_none">Нет</string>
+    <string name="ram_bar_apps">Приложения</string>
+    <string name="ram_bar_cache">Приложения и кэш</string>
+    <string name="ram_bar_other">Приложения. кэш и остальные</string>
+    <string name="ram_bar_style_cat">Стиль панели ОЗУ</string>
+    <string name="ram_bar_color_app_mem_color">Цвет памяти приложений</string>
+    <string name="ram_bar_color_cache_mem_color">Цвет памяти кэша</string>
+    <string name="ram_bar_color_total_mem_color">Цвет памяти остальных</string>
+    <string name="ram_bar_color_enabled">Вкл</string>
+    <string name="ram_bar_color_disabled">Выкл</string>
+    <string name="ram_bar_button_help">Помощь</string>
+    <string name="ram_bar_button_reset">Сбросить цвета</string>
+    <string name="ram_bar_reset">Сброс</string>
+    <string name="ram_bar_reset_message">Сбросить настройки панели ОЗУ?</string>
 
     <!-- PropModder -->
     <string name="propmodder_title">Build.prop Mods</string>
